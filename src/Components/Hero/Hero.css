@@ -1,0 +1,10 @@
+.hero_main img{
+    
+    width: 101%;
+    
+
+}
+.hero_main img:hover{
+    transform: scale(1.05);
+    transition: 4.65s;
+}
